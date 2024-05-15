@@ -1,0 +1,16 @@
+.inputRegister {
+    /* outline: none,
+    width : 280px,
+    borderRadius: 10,
+    marginLeft: 5,
+    padding: '7px 7px 7px 10px',
+    fontSize: 16,
+    border: '1px solid rgb(224, 224, 224)', */
+    outline: none;
+    width: 280px;
+    border-radius: 10px;
+    margin-left: 5px;
+    padding: 7px 7px 7px 10px;
+    font-size: 16px;
+    border: 1px solid rgb(224, 224, 224);
+}
